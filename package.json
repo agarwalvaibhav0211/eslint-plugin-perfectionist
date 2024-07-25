@@ -71,8 +71,8 @@
     "vue-eslint-parser": ">=9.0.0"
   },
   "dependencies": {
-    "@typescript-eslint/types": "^7.16.1",
-    "@typescript-eslint/utils": "^7.16.1",
+    "@typescript-eslint/types": "^8.0.0-alpha.10",
+    "@typescript-eslint/utils": "^8.0.0-alpha.10",
     "minimatch": "^10.0.1",
     "natural-compare-lite": "^1.4.0"
   },
@@ -95,10 +95,10 @@
     "@types/natural-compare-lite": "^1.4.2",
     "@types/node": "^20.14.11",
     "@types/unist": "^3.0.2",
-    "@typescript-eslint/eslint-plugin": "^7.16.1",
-    "@typescript-eslint/parser": "^7.16.1",
-    "@typescript-eslint/rule-tester": "^7.16.1",
-    "@typescript-eslint/types": "^6.13.0",
+    "@typescript-eslint/eslint-plugin": "^8.0.0-alpha.10",
+    "@typescript-eslint/parser": "^8.0.0-alpha.10",
+    "@typescript-eslint/rule-tester": "^8.0.0-alpha.10",
+    "@typescript-eslint/types": "^8.0.0-alpha.10",
     "@vercel/og": "^0.6.2",
     "@vitest/coverage-v8": "^2.0.3",
     "astro": "^4.12.2",
